@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bayblades</string>
+    <string name="Find_Description">Find Details</string>
+    <string name="descrition">No item selected</string>
+    <string-array name="items_array">
+        <item>Pegasus</item>
+        <item>L-Drago</item>
+        <item>Lybra</item>
+        <item>Sageterio</item>
+        <item>Gravity Destroyer</item>
+    </string-array>
+</resources>
