@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">id_card</string>
+    <string name="jahangirnagar_university">JAHANGIRNAGAR UNIVERSITY</string>
+    <string name="bangabandhu_sheikh_mujibur_rahman_hall">Bangabandhu Sheikh Mujibur Rahman Hall</string>
+    <string name="student_picture">Student Picture</string>
+    <string name="md_mahfuzur_rahman">Md. Mahfuzur Rahman</string>
+    <string name="student_id_number_20200650774">Student ID Number: 20200650774</string>
+    <string name="batch_49">Batch: 49</string>
+    <string name="department_computer_science_and_engineering">Department: Computer Science and Engineering</string>
+    <string name="validity_30_08_2025">Validity: 30-08-2025</string>
+    <string name="blood_group_b">Blood Group: B+</string>
+    <string name="registrar_signature">Registrar Signature</string>
+    <string name="barcode">Barcode</string>
+</resources>
